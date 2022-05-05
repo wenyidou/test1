@@ -1,0 +1,15 @@
+{
+  "student": [
+    {
+      "name": "Henli",
+      "phone": "333-444-555",
+      "id": 1
+    },
+    {
+      "name": "asj",
+      "phone": "fasdfa",
+      "email": "12300",
+      "id": 2
+    }
+  ]
+  }
