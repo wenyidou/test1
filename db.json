@@ -1,21 +1,5 @@
 {
  [
-    {
-      "name": "Henry",
-      "phone": "333-444-555",
-      "id": 1
-    },
-    {
-      "name": "adfasdf",
-      "phone": "fasdfasfd",
-      "email": "asdfasfd",
-      "id": 3
-    }
-     {
-      "name": "xiao",
-      "phone": "200",
-      "email": "asdfasfd",
-      "id": 4
-    }
+    1,2,3,4,5
   ]
 }
